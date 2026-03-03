@@ -15,7 +15,7 @@
 ## 👥 Team Details
 
 * **Team Name:** Team Rockets
-* **Hackathon:** Build With Technology (BWT)
+* **Hackathon:** Build With Trae (BWT)
 
 ---
 
